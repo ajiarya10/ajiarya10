@@ -70,12 +70,8 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ajiarya10&show_icons=true&theme=default&hide_border=true" width="70%" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajiarya10&layout=compact&theme=default&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajiarya10&layout=compact&theme=default&hide_border=true" width="50%" />
 </p>
 
 ---
